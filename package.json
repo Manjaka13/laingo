@@ -1,0 +1,14 @@
+{
+    "name": "rogi",
+    "version": "1.0.0",
+    "description": "I love you Rogi",
+    "scripts": {
+        "start": "serve . -p 3000"
+    },
+    "keywords": [],
+    "author": "harijaona <harijaona@expat.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "serve": "^14.2.0"
+    }
+}
