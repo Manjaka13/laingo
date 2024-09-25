@@ -1,12 +1,15 @@
 {
-    "name": "rogi",
+    "name": "laingo",
     "version": "1.0.0",
-    "description": "I love you Rogi",
+    "description": "I love you Laingo",
     "scripts": {
         "start": "serve . -p 3000"
     },
-    "keywords": [],
-    "author": "harijaona <harijaona@expat.com>",
+    "keywords": [
+        "laingo",
+        "love"
+    ],
+    "author": "harijaona <manjaka.rajaonson@gmail.com>",
     "license": "ISC",
     "devDependencies": {
         "serve": "^14.2.0"
